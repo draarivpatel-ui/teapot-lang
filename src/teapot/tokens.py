@@ -46,7 +46,6 @@ class TokenType(Enum):
     INTEGER = auto()
     FLOAT = auto()
     STRING = auto()
-    CHARACTER = auto()
     BOOLEAN = auto()
     IDENTIFIER = auto()
     # Arithmetic
